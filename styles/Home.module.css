@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  .title {
+    color: #0070f3;
+    font-size: 2rem;
+  }
+  
+  .image {
+    width: 200px;
+    margin: 1rem auto;
+  }
+  
